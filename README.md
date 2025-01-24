@@ -1,4 +1,4 @@
-# 01-28-2025-learning-about-version-control
+# Learning about Version Control
+# Emma Wolfe 
 Individual Assignment 2 on git merging conflicts 
-
-Solving merging conflicts is soooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
